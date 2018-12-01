@@ -12,6 +12,9 @@ The only real issue is keeping track of scope and garbage collection in terms of
 Press the binder button to launch an interactive version of this repo where you can run code. Startup may be slow. BINDER DOES NOT SAVE, please save any changes you want to keep offline.
 
 
+USE DOWNLOAD AS button to export notebook offline if you want to save any changes you make playing around in Binder.
+
+
 
 Thank you to https://github.com/SpencerPark/IJava and https://github.com/jupyter/notebook and https://github.com/ContinuumIO
 
