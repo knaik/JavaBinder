@@ -32,3 +32,4 @@ Samsung Chromebook Pro:  https://github.com/dnschneid/crouton
   - start by using enter-chroot ; jupyter notebook --port 9999 (chromeos can get fussy about ports)
   - *no automatic file sync with cloud (no dropbox support with live file uploading), either use android app foldersync, or do it manually
   - ** automatic file sync is possible if xfce4 is started (I prefer not to use xiwi because it lacks hw gpu accel)
+  - use git from command line
