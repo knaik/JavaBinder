@@ -8,7 +8,7 @@ RUN pip3 install --no-cache-dir notebook==5.5.* jupyterlab==0.32.*
 USER root
 
 # Download the kernel release
-RUN curl -L https://github.com/knaik94/JavaBinder/blob/master/ijava-1.2.0.zip?raw=true > ijava-kernel.zip
+RUN curl -L https://github.com/knaik/JavaBinder/blob/master/ijava-1.2.0.zip?raw=true > ijava-kernel.zip
 
 # Unpack and install the kernel
 RUN unzip ijava-kernel.zip -d ijava-kernel \
